@@ -10,7 +10,7 @@ About Me: ...
 - 💬 Ask me about Game of Thrones 
 - 📫 How to reach me: dak.boniface@gmail.com 
 - 😄 Pronouns: he/him 
-- ⚡ Fun fact: I sell drugs that stable the mind 
+- ⚡ Fun fact: The error in the banner is in the logic😆
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Serkhani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dakboniface/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://www.leetcode.com/serkhani)  
