@@ -85,7 +85,7 @@ Languages and Tools:
 
 <div style="display: flex;">
     <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serkhani&theme=dark" alt="Top Langs" style="width: 30%; height: 80%;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serkhani&theme=dark" alt="Top Langs" style="width: 30%; height: 55%;" />
     </a>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph" style="flex: 2; padding: 10px;">
         <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Serkhani&theme=github-compact" alt="Boniface's github activity graph" style="width: 60%; height: 100%;" />
