@@ -3,7 +3,7 @@
 
 About Me: ...
 
-- 🔭 I’m currently working on a plugin for QGIS 
+- 🔭 I’m currently working on a [plugin for QGIS](https://github.com/Serkhani/imageviewer) 
 - 🌱 I’m currently learning AI/ML and flutter 
 - 👨‍💻 Some of my projects are available at [repos](https://github.com/Serkhani?tab=repositories)
 - 👯 I’m looking to collaborate on projects that reveal Africa to the world 
